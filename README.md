@@ -13,13 +13,13 @@ One image that sums up one day of world news: a newspaper front page for
 
 29 stories across six continents, in three bands:
 
-- **Lead** — mines sink tankers in the Strait of Hormuz, with the Iranian claim
+- **Lead**: mines sink tankers in the Strait of Hormuz, with the Iranian claim
   attributed and the third US carrier noted.
-- **Eight cards** — the Crimea bridge span, Nvidia's revenue, Anthropic's order
+- **Eight cards**: the Crimea bridge span, Nvidia's revenue, Anthropic's order
   book, British sanctions on settler builders and Tzav 9, Xi and Carney on
   tariffs, Russian aircraft over Japanese airspace, US measles status, and DR
   Congo's Ebola outbreak.
-- **Also on the day** — twenty one-line stories from the Americas, Europe,
+- **Also on the day**: twenty one-line stories from the Americas, Europe,
   Africa, the Middle East and Asia, beside a coarse world map whose nine
   numbered pins match the lead and the eight cards in reading order.
 
