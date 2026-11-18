@@ -1,0 +1,148 @@
+{
+ "as_of": "2026-11-17",
+ "date_label": "TUESDAY 17 NOVEMBER 2026",
+ "kicker": "THE DAY IN WORLD NEWS",
+ "stats": {
+  "stories": 29,
+  "continents": 6
+ },
+ "lead": {
+  "tag": "MIDEAST · ENERGY",
+  "headline": "Mines sink tankers in the Strait of Hormuz",
+  "label": "Iran says six have gone down since Sunday; a third US carrier arrives",
+  "art": "tanker_mine"
+ },
+ "cards": [
+  {
+   "tag": "EUROPE · WAR",
+   "headline": "Crimea bridge road span falls into the strait",
+   "label": "Rail resumes; the Kerch shipping channel is blocked",
+   "art": "bridge_collapse"
+  },
+  {
+   "tag": "MARKETS · AI",
+   "headline": "Nvidia revenue doubles to $115.8bn",
+   "label": "First report since Huang quit; an SEC civil probe is reported",
+   "art": "chips_up"
+  },
+  {
+   "tag": "MARKETS · CAPITAL",
+   "headline": "Anthropic orders near seven times the shares",
+   "label": "Pricing seen above range; about $1.4tn fully diluted",
+   "art": "ipo_bell"
+  },
+  {
+   "tag": "MIDEAST · DIPLOMACY",
+   "headline": "Britain sanctions settler builders and Tzav 9",
+   "label": "Eight firms hit with asset freezes and director bans",
+   "art": "sanctions_gavel"
+  },
+  {
+   "tag": "ASIA · TRADE",
+   "headline": "Xi and Carney widen tariff relief in Shenzhen",
+   "label": "About C$400m of Canadian exports brought back",
+   "art": "handshake_flags"
+  },
+  {
+   "tag": "ASIA · SECURITY",
+   "headline": "Russian aircraft breach Japan's airspace",
+   "label": "Fighters scramble near Okinoshima; Seoul and Taipei track them",
+   "art": "jet_intrusion"
+  },
+  {
+   "tag": "AMERICAS · HEALTH",
+   "headline": "US loses its measles elimination status",
+   "label": "5,412 cases this year, the most since 1991",
+   "art": "measles_virus"
+  },
+  {
+   "tag": "AFRICA · HEALTH",
+   "headline": "Congo's Ebola outbreak stays out of control",
+   "label": "Africa CDC reports 11,200 infections and 5,500 deaths",
+   "art": "ebola_cross"
+  }
+ ],
+ "also": [
+  {
+   "where": "US MARKETS",
+   "text": "Stocks fall a fourth day, Dow down 849"
+  },
+  {
+   "where": "GENEVA",
+   "text": "Killer-robot treaty talks stall"
+  },
+  {
+   "where": "PENTAGON",
+   "text": "Fails its audit for a ninth year"
+  },
+  {
+   "where": "WASHINGTON",
+   "text": "FBI never held the failed router"
+  },
+  {
+   "where": "BAHRAIN",
+   "text": "Drones at the US radar intercepted"
+  },
+  {
+   "where": "SOUTH ISLAND",
+   "text": "Magnitude 5.3 quake strikes NZ"
+  },
+  {
+   "where": "TEXAS",
+   "text": "Rio Grande 117% above its yearly high"
+  },
+  {
+   "where": "JOHANNESBURG",
+   "text": "17 killed in two mass shootings"
+  },
+  {
+   "where": "CONAKRY",
+   "text": "1,263 held in gold mining crackdown"
+  },
+  {
+   "where": "KHARTOUM",
+   "text": "Army breaks the RSF siege on al-Obeid"
+  },
+  {
+   "where": "NAIROBI",
+   "text": "Heavy rains kill 37"
+  },
+  {
+   "where": "ABUJA",
+   "text": "Inflation eases to 14.06%"
+  },
+  {
+   "where": "PORT-AU-PRINCE",
+   "text": "Martine Moise enters the race"
+  },
+  {
+   "where": "BRASILIA",
+   "text": "Bomb-letter scare shuts ministries"
+  },
+  {
+   "where": "SANTIAGO",
+   "text": "Fuel prices climb again"
+  },
+  {
+   "where": "SHENZHEN",
+   "text": "Latin America courts China at APEC"
+  },
+  {
+   "where": "ACCRA",
+   "text": "Mining royalties reach GH 7.8bn"
+  },
+  {
+   "where": "LUANDA",
+   "text": "IFC commits $500m to Africa"
+  },
+  {
+   "where": "OMAN",
+   "text": "Tanker crew abandons ship after hit"
+  },
+  {
+   "where": "BOGOTA",
+   "text": "Food tax plan draws alarm"
+  }
+ ],
+ "sources": "Sources: Reuters, AP, Bloomberg, CNBC, WSJ, CNN, Al Jazeera, PBS, UK FCDO, Africa CDC, allAfrica, EMSC, Rio Times. Disputed claims are attributed to the side making them."
+}
